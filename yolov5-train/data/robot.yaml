@@ -1,7 +1,7 @@
-path: ../datasets/ball
+path: ../datasets/robot
 train: train/images
 val: valid/images
 test: valid/images
 
 nc: 1
-names: ['ball']
+names: ['robot']
