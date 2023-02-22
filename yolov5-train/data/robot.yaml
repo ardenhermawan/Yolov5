@@ -3,5 +3,5 @@ train: train/images
 val: valid/images
 test: valid/images
 
-nc: 1
+nc: 2
 names: ['robot']
