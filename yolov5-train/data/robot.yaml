@@ -4,4 +4,4 @@ val: valid/images
 test: valid/images
 
 nc: 2
-names: ['robot']
+names: ['ball','robot']
